@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925463116432",
+    "firebase_url": "https://dackhunt-7dfb9.firebaseio.com",
+    "project_id": "dackhunt-7dfb9",
+    "storage_bucket": "dackhunt-7dfb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925463116432:android:ce958ee04e557fc3263615",
+        "android_client_info": {
+          "package_name": "com.example.cazandopatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925463116432-sncee3ici2r5aabdbq2iccvj50vv0ehe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC63AFU5LaOoOHvMQTSGuH2qBzVVOHu-rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925463116432-sncee3ici2r5aabdbq2iccvj50vv0ehe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
