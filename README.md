@@ -3,4 +3,5 @@ Juego 2D - Utilizando Firebase
 DUCK HUNT !! Realizado con firebase cloud 
 
 
-https://user-images.githubusercontent.com/69445175/107312323-e4a69000-6a6e-11eb-8434-9346dbf00265.mp4
+![dackhunt](https://user-images.githubusercontent.com/69445175/107314049-9e533000-6a72-11eb-89d6-d159cd28e700.gif)
+
